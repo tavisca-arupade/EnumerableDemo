@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\bin\Debug\netcoreapp2.2\EnumerableDemo.deps.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\bin\Debug\netcoreapp2.2\EnumerableDemo.runtimeconfig.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\bin\Debug\netcoreapp2.2\EnumerableDemo.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\bin\Debug\netcoreapp2.2\EnumerableDemo.dll
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\bin\Debug\netcoreapp2.2\EnumerableDemo.pdb
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.AssemblyInfo.cs
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.dll
+C:\Users\arupade\source\repos\EnumerableDemo\EnumerableDemo\obj\Debug\netcoreapp2.2\EnumerableDemo.pdb

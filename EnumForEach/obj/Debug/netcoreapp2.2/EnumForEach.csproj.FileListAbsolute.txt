@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.AssemblyInfo.cs
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\bin\Debug\netcoreapp2.2\EnumForEach.deps.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\bin\Debug\netcoreapp2.2\EnumForEach.runtimeconfig.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\bin\Debug\netcoreapp2.2\EnumForEach.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\bin\Debug\netcoreapp2.2\EnumForEach.dll
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\bin\Debug\netcoreapp2.2\EnumForEach.pdb
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.dll
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.pdb
+C:\Users\arupade\source\repos\EnumerableDemo\EnumForEach\obj\Debug\netcoreapp2.2\EnumForEach.csprojAssemblyReference.cache
